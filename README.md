@@ -1,2 +1,2 @@
-# DataStructureC
- Fundamentals of Data Structures in C.
+# DataStructuresC
+ Data Structures in C based on my university classes.
