@@ -6,7 +6,7 @@
 #define TRI 2
 #define CIR 3
 
-int main(void){
+int main(void) {
 
 	Lista* lst;
 

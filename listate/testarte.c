@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "listate.h"
 
-int main(void){
+int main(void) {
 
 	Lista* lst;
 	lst = cria_lstte();

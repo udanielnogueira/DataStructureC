@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "lista.h"
 
-int main(void){
+int main(void) {
 
 	Lista* lst;
 
@@ -24,7 +24,7 @@ int main(void){
 
 	imprime_lst(lst);
 
-	printf("vazia: %d\n", vazia_lst(lst) );
+	printf("vazia: %d\n", vazia_lst(lst));
 
 	libera_lst(lst);
 
