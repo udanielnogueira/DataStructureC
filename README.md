@@ -1,3 +1,3 @@
 # DataStructuresC
 
-Data Structures in C based on my university classes.
+Estudo de Estrutura de Dados nas aulas da Graduação de Ciência da Computação.
