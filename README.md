@@ -1,3 +1,3 @@
-# Data Structure Zero
+# data-structure-zero
 
-Estudo de Estrutura de Dados usando linguagem C nas aulas da Graduação de Ciência da Computação.
+Estudo sobre Estrutura de Dados usando linguagem C nas aulas da Graduação de Ciência da Computação.
